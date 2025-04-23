@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bottomcore = () => {
   return (
-    <div className="bg-gray-100 py-8">
+    <div className="py-8">
       <div className="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div className='mx-auto'>
           <h3 className="text-gray-700 font-semibold mb-4">Need Help?</h3>
